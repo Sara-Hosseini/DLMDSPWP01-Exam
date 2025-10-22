@@ -1,0 +1,4 @@
+x,y,ideal_func_no,deviation,id
+0,0.1,No match,,1
+1,1.2,No match,,2
+2,4.0,y1,0.0,3
